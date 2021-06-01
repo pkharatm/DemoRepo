@@ -7,4 +7,8 @@ public class libsClass {
 		System.out.println("Libs package");
 	}
 
+	public void libSet()
+	{
+		System.out.println("Libs Set package");
+	}
 }
